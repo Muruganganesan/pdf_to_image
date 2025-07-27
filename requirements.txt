@@ -1,5 +1,5 @@
 streamlit
 pdf2image
-pillow
+pytesseract
+Pillow
 sudo 
-
